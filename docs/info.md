@@ -9,12 +9,18 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+AND gate connected to IN1 and CLK
+NOT gate connected to IN7
 
 ## How to test
 
-Explain how to use your project
+Set the inputs and check the outputs match with the expected results: 
+
+
 
 ## External hardware
+7 segment LED display
+Tactile switch buttons
+1K ohm resistor
+slide switch 
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
